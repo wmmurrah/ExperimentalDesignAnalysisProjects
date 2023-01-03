@@ -2,6 +2,7 @@
 title: "Potential Projects"
 ---
 
+This page is temporary, and serves as a place to document potential project to use in the book.
 
 
 [Abecedarian followup](https://www.icpsr.umich.edu/web/DSDR/studies/32262/datadocumentation)
