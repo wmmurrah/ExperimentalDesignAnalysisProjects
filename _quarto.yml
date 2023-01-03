@@ -3,12 +3,13 @@ project:
   output-dir: docs
 
 book:
-  title: "ExperimentalDesignAnalysisProjects"
-  author: "Jane Doe"
+  title: "Experimental Design and Analysis: A Computational Project-Based Approach"
+  author: "William M. Murrah, III"
   date: "1/3/2023"
   chapters:
     - index.qmd
     - intro.qmd
+    - potentialprojects.qmd
     - references.qmd
 
 bibliography: references.bib
